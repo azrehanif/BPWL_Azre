@@ -10,4 +10,6 @@ WHERE id_2055301019 = '$id'");
 } else
 {
   header('location:MenuProduk.php');
+  
+  
 }
